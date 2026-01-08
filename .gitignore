@@ -1,0 +1,17 @@
+# System files
+__pycache__/
+*.py[cod]
+*.so
+
+# Data files (IMPORTANT: Do not commit raw personal data)
+raw_data/*.txt
+raw_data/*.jpg
+raw_data/*.png
+memory_core/*.cds
+
+# Virtual Environment
+venv/
+env/
+
+# Logs
+*.log
