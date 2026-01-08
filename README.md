@@ -109,4 +109,4 @@ This project adheres to strict **Data Privacy** principles.
 
 *"I believe that in the future, Multimedia will not just be about what we see or hear, but who we interact with. Chimera Genesis is my first step into that future."*
 
-**- Bas (Pongsagorn P.)**
+**- ChimeraCoreLab**
